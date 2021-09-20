@@ -3,10 +3,10 @@
 
 -----------------------------------------------
  This is our official implementation of ITE and BERT-ITE -  deep neural networks for modeling sequential behaviours and long-short term preferences of online users. For more details, please refer to our papers: (links)
- 
-![BERT-ITE](https://github.com/tranquyenbk173/ITE/blob/master/src/result/image/MD1-1.png){ width: 100px; }
 
-
+<p align="center">
+<img align="center" src="https://github.com/tranquyenbk173/ITE/blob/master/src/result/image/MD1-1.png" width=80%>
+</p>
 
 -------------------------------
 ## Abstract:
@@ -14,11 +14,18 @@ In this work, we examine the advantages of using multiple types of behaviour in 
 
 ## Some experimental results:
 
-![Epoch](https://github.com/tranquyenbk173/ITE/blob/master/src/result/image/retail_epoch_main-1.png){ width: 100px; }
+<p align="center">
+<img align="center" src="https://github.com/tranquyenbk173/ITE/blob/master/src/result/image/retail_epoch_main-1.png" width=100%>
+</p>
 
-![Num_factor](https://github.com/tranquyenbk173/ITE/blob/master/src/result/image/retail_recobell_numfactor_main-1.png){ width: 100px; }
+<p align="center">
+<img align="center" src="https://github.com/tranquyenbk173/ITE/blob/master/src/result/image/retail_recobell_numfactor_main-1.png" width=90% height=100%>
+</p>
 
-![MultiTop](https://github.com/tranquyenbk173/ITE/blob/master/src/result/image/multiTop-1.png){ width: 100px; }
+<p align="center">
+<img align="center" src="https://github.com/tranquyenbk173/ITE/blob/master/src/result/image/multiTop-1.png" width=80%>
+</p>
+
 
 ## How to run:
 
