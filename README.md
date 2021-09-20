@@ -16,6 +16,7 @@ In this work, we examine the advantages of using multiple types of behaviour in 
 
 <p align="center">
 <img align="center" src="https://github.com/tranquyenbk173/ITE/blob/master/src/result/image/retail_epoch_main-1.png" width=100%>
+ 
 </p>
 
 <!-- <p align="center">
@@ -23,7 +24,7 @@ In this work, we examine the advantages of using multiple types of behaviour in 
 </p> -->
 
 <p align="center">
-<img align="center" src="https://github.com/tranquyenbk173/ITE/blob/master/src/result/image/multiTop-1.png" width=100%>
+<img align="center" src="https://github.com/tranquyenbk173/ITE/blob/master/src/result/image/multiTop-1.png" width=85%>
 </p>
 
 
