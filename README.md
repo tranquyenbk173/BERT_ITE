@@ -1,8 +1,8 @@
-# ITE and BERT-ITE
+# BERT-ITE
 ##### From Implicit to Explicit Feedback: A deep neural network for modeling sequential behaviours and long-short term preferences of online users
 
 -----------------------------------------------
- This is our official implementation of ITE and BERT-ITE -  deep neural networks for modeling sequential behaviours and long-short term preferences of online users. For more details, please refer to our papers: (links)
+ This is our official implementation of BERT-ITE - a deep neural network for modeling sequential behaviours and long-short term preferences of online users. For more details, please refer to our papers: https://arxiv.org/abs/2107.12325
 
 <p align="center">
 <img align="center" src="https://github.com/tranquyenbk173/ITE/blob/master/src/result/image/MD1-1.png" width=80%>
@@ -18,9 +18,9 @@ In this work, we examine the advantages of using multiple types of behaviour in 
 <img align="center" src="https://github.com/tranquyenbk173/ITE/blob/master/src/result/image/retail_epoch_main-1.png" width=100%>
 </p>
 
-<p align="center">
+<!-- <p align="center">
 <img align="center" src="https://github.com/tranquyenbk173/ITE/blob/master/src/result/image/retail_recobell_numfactor_main-1.png" width=90% height=100%>
-</p>
+</p> -->
 
 <p align="center">
 <img align="center" src="https://github.com/tranquyenbk173/ITE/blob/master/src/result/image/multiTop-1.png" width=80%>
