@@ -31,7 +31,7 @@ $ python3 main.py --num_factor 64\
                 --dataset tmall\
                 --batch_size 512
 ```
-You can adjust the parameters.
+You can adjust the arguments.
 
 #### To run ITE code:
 ```
