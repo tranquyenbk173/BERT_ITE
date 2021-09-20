@@ -45,7 +45,7 @@ You can adjust the arguments.
 
 #### To run ITE code:
 ```
-$ cd model_ite_...
+$ cd src/model_ite_...
 
 $ python3 run_num_factor.py
 
