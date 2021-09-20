@@ -3,14 +3,8 @@
 
 -----------------------------------------------
  This is our official implementation of ITE and BERT-ITE -  deep neural networks for modeling sequential behaviours and long-short term preferences of online users. For more details, please refer to our papers: (links)
-
-<p align="center">
-    <br>
-    <a href="https://github.com/tranquyenbk173/src/result/image/MD1.pdf">
-        <img src="https://github.com/tranquyenbk173/src/result/image/MD1.pdf" width="800"/>
-    </a>
-    <br>
-<p>
+ 
+![BERT-ITE](src/result/image/MD1.pdf)
 
 -------------------------------
 ## Abstract:
@@ -18,29 +12,11 @@ In this work, we examine the advantages of using multiple types of behaviour in 
 
 ## Some experimental results:
 
-<object data="https://.github.com/tranquyenbk173/src/result/image/retail_epoch_main.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://.github.com/tranquyenbk173/src/result/image/retail_epoch_main.pdf">
+![Epoch](src/result/image/retail_epoch_main.pdf)
 
-        <p> This browser does not support PDFs. Please download the PDF to view it: <a href="https://yoursite.com/the.pdf">Download PDF</a>.</p>
+![Num_factor](src/result/image/retail_recobell_numfactor_main.pdf)
 
-    </embed>
-</object>
-
-<object data="https://.github.com/tranquyenbk173/src/result/image/retail_recobell_numfactor_main.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://.github.com/tranquyenbk173/src/result/image/retail_recobell_numfactor_main.pdf">
-
-        <p> This browser does not support PDFs. Please download the PDF to view it: <a href="https://yoursite.com/the.pdf">Download PDF</a>.</p>
-
-    </embed>
-</object>
-
-<object data="https://.github.com/tranquyenbk173/src/result/image/multiTop.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://.github.com/tranquyenbk173/src/result/image/multiTop.pdf">
-
-        <p> This browser does not support PDFs. Please download the PDF to view it: <a href="https://yoursite.com/the.pdf">Download PDF</a>.</p>
-
-    </embed>
-</object>
+![MultiTop](src/result/image/multiTop.pdf)
 
 ## How to run:
 
