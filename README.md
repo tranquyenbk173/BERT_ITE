@@ -33,7 +33,7 @@ In this work, we examine the advantages of using multiple types of behaviour in 
 #### To run BERT-ITE code:
 
 ```
-$ cd model_bertIte_...
+$ cd src/model_bertIte_...
  
 $ python3 main.py --num_factor 64\
                 --eta 0.1\
