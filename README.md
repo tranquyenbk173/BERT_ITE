@@ -30,7 +30,7 @@ In this work, we examine the advantages of using multiple types of behaviour in 
 
 ## How to run:
 
-#### To run BERT-ITE code:
+#### To run BERT-ITE's code:
 
 ```
 $ cd src/model_bertIte_...
@@ -43,7 +43,7 @@ $ python3 main.py --num_factor 64\
 ```
 You can adjust the arguments.
 
-#### To run ITE code:
+#### To run ITE's code:
 ```
 $ cd src/model_ite_...
 
