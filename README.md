@@ -53,3 +53,20 @@ or python3 run_batch_size.py
 
 or python3 run_eta.py
 ```
+
+## Citation
+
+```
+@article{TRAN202289,
+title = {From implicit to explicit feedback: A deep neural network for modeling sequential behaviours and long-short term preferences of online users},
+journal = {Neurocomputing},
+volume = {479},
+pages = {89-105},
+year = {2022},
+issn = {0925-2312},
+doi = {https://doi.org/10.1016/j.neucom.2022.01.023},
+url = {https://www.sciencedirect.com/science/article/pii/S0925231222000418},
+author = {Quyen Tran and Lam Tran and Linh Chu Hai and Ngo Van Linh and Khoat Than},
+keywords = {Deep learning, Recommendation systems, Collaborative filtering, Implicit feedback, Explicit feedback, Long-term preference, Short-term preference},
+}
+```
