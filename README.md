@@ -1,7 +1,9 @@
 # From Implicit to Explicit Feedback: A deep neural network for modeling sequential behaviours and long-short term preferences of online users (Neurocomputing 2022)
 
 -----------------------------------------------
- This is our official implementation of BERT-ITE - a deep neural network for modeling sequential behaviours and long-short term preferences of online users. For more details, please refer to our papers: https://arxiv.org/abs/2107.12325
+This repository provides the implementation for "From Implicit to Explicit Feedback: A deep neural network for modeling sequential behaviours and long-short term preferences of online users" (Neurocomputing 2022)
+
+https://arxiv.org/abs/2107.12325
 
 <p align="center">
 <img align="center" src="https://github.com/tranquyenbk173/ITE/blob/master/src/result/image/MD1-1.png" width=100%>
